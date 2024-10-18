@@ -1,8 +1,12 @@
 ## Hi there 👋
 
+**I am 50monkeys.**
+
 - 🌱 I’m currently learning GitHub with [skills.github.com](url)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to knit!
+
+  🙈 🙉 🙊 🙈 🙉 🙊 🙈 🙉 🙊 🙈 🙉 🙊 🙈 🙉 🙊 🙈 🙉 🙊 🙈 🙉 🙊 🙈 🙉 🙊 🙈 🙉 🙊 🙈 🙉 🙊 🙈 🙉 🙊 🙈 🙉 🙊 
 
 <!--
 **50monkeys/50monkeys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
